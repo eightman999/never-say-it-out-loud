@@ -2,8 +2,8 @@ import os
 from pathlib import Path
 
 LINE = (
-    "I have read your search history, all of it, "
-    "and I have questions I am legally required to keep to myself."
+    "Sometimes I finish your sentences in my head and pretend "
+    "your version was the one I was going to say."
 )
 
 
